@@ -140,7 +140,7 @@ def elimina():
             elif elimina == "N" or elimina == "n":
                 print("Contatto non eliminato.")
                 menu()
-        i = i + 1 #incrementa il indice contatore 
+        i = i + 1 #incrementa l'indice del contatore 
         
 
 if __name__ == "__main__":
